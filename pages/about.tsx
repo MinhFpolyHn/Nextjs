@@ -1,4 +1,6 @@
 import React from 'react'
+import Layout from '../componets/Layout'
+import LayoutAdmin from '../componets/Layout/admin'
 
 type Props = {}
 
@@ -9,5 +11,7 @@ const About = (props: Props) => {
     </div>
   )
 }
+
+
 
 export default About
